@@ -11,6 +11,9 @@
 7.  [Questions](#questions)
 ## Description:
 ### A command line application that allows a user to view, post, update, and delete assets in their E-commerce store.
+
+## Walkthrough Video
+### https://drive.google.com/file/d/1gsREmwxkRHul2GOeRP5R7k70lG27b1qB/view?usp=sharing
 ## Installation:
 ### This application requires the following dependencies to be installed to allow the application to run. MySQL2, Sequelize, dotenv, and Express.
 ## Usage:
